@@ -1,0 +1,28 @@
+body
+{font-family: 'Montserrat', sans-serif;background-color: darkgoldenrod;}
+.header_div{
+    background-color: tomato;color: springgreen
+}
+ .header_div p{
+ font-family: 'Roboto',cursive;
+ color: turquoise;
+ letter-spacing: 2px;
+ font-size: 12px;
+ font-weight: bold;
+}
+.main_div button{
+ font-family: 'Roboto',cursive;   
+ margin-top:30px;
+ width: 120px;
+ font-weight: bolder;
+ letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(0, 0, 0);
+    line-height: 10;
+}
